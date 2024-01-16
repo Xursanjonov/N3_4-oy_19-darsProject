@@ -1,20 +1,39 @@
 {
-    "banner": [
+    "banners": [
         {
             "id": "1",
-            "title": "a title"
+            "title": "Back to school SALE UP TO 50%",
+            "text":"Everythings For Office & School Supplies",
+            "img":"https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Banner%20or%20Hero%20img/banner%201.png"
         },
         {
             "id": "2",
-            "title": "another title"
+            "title": "Back to school SALE UP TO 50%",
+            "text":"Everythings For Office & School Supplies",
+            "img":"https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Banner%20or%20Hero%20img/banner%202.png"
         },
         {
             "id": "3",
-            "title": "another title"
+            "title": "Back to school SALE UP TO 50%",
+            "text":"Everythings For Office & School Supplies",
+            "img":"https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Banner%20or%20Hero%20img/banner%203.png"
+        }
+    ],
+    "firstOrders": [
+        {
+            "id":"1",
+            "title": "First Order",
+            "img":"https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/First%20Order%20img/firs%20order%201.png"
         },
         {
-            "id": "4",
-            "title": "another title"
+            "id":"2",
+            "title": "First Order",
+            "img":"https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/First%20Order%20img/firs%20order%203.png"
+        },
+        {
+            "id":"3",
+            "title": "First Order",
+            "img":"https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/First%20Order%20img/first%20order%202.png"
         }
     ],
     "products_1": [
@@ -163,6 +182,80 @@
             "price": "$142.00 $136.00",
             "title": "HP DeskJet Wireless",
             "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%202.jpg"
+        }
+    ],
+    "products_3": [
+        {
+            "id":"1",
+            "price": "$45.00",
+            "title": "Sport Calligraphy Fountain Pen Set",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%201.jpg"
+        },
+        {
+            "id":"2",
+            "price": "$11.80",
+            "title": "Start A Clothing Company",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%202.jpg"
+        },
+        {
+            "id":"3",
+            "price": "$45.00",
+            "title": "Sport Calligraphy Fountain Pen Set",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%201.jpg"
+        },
+        {
+            "id":"4",
+            "price": "$11.80",
+            "title": "Start A Clothing Company",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%202.jpg"
+        },
+        {
+            "id":"5",
+            "price": "$45.00",
+            "title": "Sport Calligraphy Fountain Pen Set",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%201.jpg"
+        },
+        {
+            "id":"6",
+            "price": "$11.80",
+            "title": "Start A Clothing Company",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%202.jpg"
+        },
+        {
+            "id":"7",
+            "price": "$45.00",
+            "title": "Sport Calligraphy Fountain Pen Set",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%201.jpg"
+        },
+        {
+            "id":"8",
+            "price": "$11.80",
+            "title": "Start A Clothing Company",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%202.jpg"
+        },
+        {
+            "id":"9",
+            "price": "$45.00",
+            "title": "Sport Calligraphy Fountain Pen Set",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%201.jpg"
+        },
+        {
+            "id":"10",
+            "price": "$11.80",
+            "title": "Start A Clothing Company",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%202.jpg"
+        },
+        {
+            "id":"11",
+            "price": "$45.00",
+            "title": "Sport Calligraphy Fountain Pen Set",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%201.jpg"
+        },
+        {
+            "id":"12",
+            "price": "$11.80",
+            "title": "Start A Clothing Company",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%203/img%202.jpg"
         }
     ]
 }

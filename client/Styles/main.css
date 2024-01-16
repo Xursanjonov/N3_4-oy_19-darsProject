@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { color: white; background-color: gray; }
+
+button { cursor: pointer; }
+
+img { width: 500px; }
+
+#Top {
+    width: 100%;
+    background-color: rgb(220, 228, 234);
+}
+
+.topContainer {
+    width: 1330px;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.topContainer h4 { color: black; }
+.topContainer h4 span { color: black; cursor: pointer; }
+.topContainer h4 span:hover { color: blue; cursor: pointer; }
+
+.senter {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .8rem;
+}
+
+.senter .blues {
+    color: rgb(35, 75, 238);
+}
+
+.senter button {
+    border: 0;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    font-weight: 600;
+    color: white;
+    background-color: blue;
+}
+
+.senter button:hover {
+    color: black;
+    background-color: gold;
+}
+
+.end1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.end1 select {
+    font-size: 1rem;
+    padding: .4rem .2rem;
+    border: 0;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.end1 a {
+    color: black;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+/* <!-- Headers --> */
+#header {
+    width: 100%;
+    margin: auto auto;
+    padding: .5rem 8rem;
+    background-color: aliceblue;
+}
+.container {
+    padding: .6rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.start img {
+    width: 150px;
+}
+.center {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+}
+.end {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.2rem;
+}
+.icons {
+    cursor: pointer;
+    font-size: 1.3rem;
+}
+/* <!-- Headers end --> */
+
+/* <!-- Main --> */
+/* #mainOrBanner {} */
+.bannerCard {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 2.5rem;
+}
+.bannerImg img {
+    width: 100%;
+    text-align: center;
+}
+/* <!-- Main end --> */
+
+/* <!-- Mini Banner --> */
+/* <!-- Mini Banner end --> */
+
+/* <!-- First Order --> */
+/* <!-- First Order end --> */
+
+/* <!-- Popular --> */
+/* <!-- Popular end --> */
+
+/* <!-- Best Seller --> */
+/* <!-- Best Seller end --> */
+
+/* <!-- Top rate --> */
+/* <!-- Top rate end --> */
+
+/* <!-- Back to School --> */
+/* <!-- Back to School end --> */
+
+/* <!-- We provide --> */
+/* <!-- We provide end --> */
+
+/* <!-- Form our Blogs --> */
+/* <!-- Form our Blogs end --> */
+
+/* <!-- Our clients --> */
+/* <!-- Our clients end --> */
+
+/* <!-- Footer --> */
+/* <!-- Footer end --> */
