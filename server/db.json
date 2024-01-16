@@ -1,0 +1,168 @@
+{
+    "banner": [
+        {
+            "id": "1",
+            "title": "a title"
+        },
+        {
+            "id": "2",
+            "title": "another title"
+        },
+        {
+            "id": "3",
+            "title": "another title"
+        },
+        {
+            "id": "4",
+            "title": "another title"
+        }
+    ],
+    "products_1": [
+        {
+            "id":"1",
+            "price": "$35.00",
+            "title": "2024 Appointment Notebook",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%201.png"
+        },
+        {
+            "id":"2",
+            "price": "$12.00",
+            "title": "2024 Wall Calendar",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%202.png"
+        },
+        {
+            "id":"3",
+            "price": "$35.00",
+            "title": "2024 Appointment Notebook",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%201.png"
+        },
+        {
+            "id":"4",
+            "price": "$12.00",
+            "title": "2024 Wall Calendar",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%202.png"
+        },
+        {
+            "id":"5",
+            "price": "$35.00",
+            "title": "2024 Appointment Notebook",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%201.png"
+        },
+        {
+            "id":"6",
+            "price": "$12.00",
+            "title": "2024 Wall Calendar",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%202.png"
+        },
+        {
+            "id":"7",
+            "price": "$35.00",
+            "title": "2024 Appointment Notebook",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%201.png"
+        },
+        {
+            "id":"8",
+            "price": "$12.00",
+            "title": "2024 Wall Calendar",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%202.png"
+        },
+        {
+            "id":"9",
+            "price": "$35.00",
+            "title": "2024 Appointment Notebook",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%201.png"
+        },
+        {
+            "id":"10",
+            "price": "$12.00",
+            "title": "2024 Wall Calendar",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%202.png"
+        },
+        {
+            "id":"11",
+            "price": "$35.00",
+            "title": "2024 Appointment Notebook",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%201.png"
+        },
+        {
+            "id":"12",
+            "price": "$12.00",
+            "title": "2024 Wall Calendar",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%201/p%20img%202.png"
+        }
+    ],
+    "products_2": [
+        {
+            "id":"1",
+            "price": "$15.00",
+            "title": "How To Start Your E-Commerce",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%201.jpg"
+        },
+        {
+            "id":"2",
+            "price": "$142.00 $136.00",
+            "title": "HP DeskJet Wireless",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%202.jpg"
+        },
+        {
+            "id":"3",
+            "price": "$15.00",
+            "title": "How To Start Your E-Commerce",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%201.jpg"
+        },
+        {
+            "id":"4",
+            "price": "$142.00 $136.00",
+            "title": "HP DeskJet Wireless",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%202.jpg"
+        },
+        {
+            "id":"5",
+            "price": "$15.00",
+            "title": "How To Start Your E-Commerce",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%201.jpg"
+        },
+        {
+            "id":"6",
+            "price": "$142.00 $136.00",
+            "title": "HP DeskJet Wireless",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%202.jpg"
+        },
+        {
+            "id":"7",
+            "price": "$15.00",
+            "title": "How To Start Your E-Commerce",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%201.jpg"
+        },
+        {
+            "id":"8",
+            "price": "$142.00 $136.00",
+            "title": "HP DeskJet Wireless",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%202.jpg"
+        },
+        {
+            "id":"9",
+            "price": "$15.00",
+            "title": "How To Start Your E-Commerce",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%201.jpg"
+        },
+        {
+            "id":"10",
+            "price": "$142.00 $136.00",
+            "title": "HP DeskJet Wireless",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%202.jpg"
+        },
+        {
+            "id":"11",
+            "price": "$15.00",
+            "title": "How To Start Your E-Commerce",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%201.jpg"
+        },
+        {
+            "id":"12",
+            "price": "$142.00 $136.00",
+            "title": "HP DeskJet Wireless",
+            "img": "https://raw.githubusercontent.com/Xursanjonov/4-oy_ProjectsImgs-18-19-dars/master/Products%202/img%202.jpg"
+        }
+    ]
+}
